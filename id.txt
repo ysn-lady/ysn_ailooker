@@ -6,6 +6,9 @@
    ysn-lady / ysn1204qwertyuiop
    ex)Repositories url ==> https://github.com/ysn-lady/docu
    
+   김용훈부장 git id 함께 사용
+   banetpc4 / 바넷4!@
+   
 - 개발서버 ip
   192.168.30.100
 
@@ -50,3 +53,17 @@
 
 - 7층 
   vsc : 매번 설치 해야 함.             
+  
+  
+-----------------------------
+- 바넷 관련
+-----------------------------
+- wifi
+  cisco / securitybanet
+
+- 개발서버     <-- crt
+  ailsys / ail1004
+  
+- db
+  aildb 
+  aildba   / ail1004
